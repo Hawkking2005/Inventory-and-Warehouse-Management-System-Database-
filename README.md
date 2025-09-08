@@ -7,10 +7,8 @@ a warehouse inventory management system.
 
 The database consists of five main tables designed to track products,
 suppliers, warehouses, and their stock levels.
+![licensed-image](https://github.com/user-attachments/assets/5e4456d2-feb4-49ca-8fff-240400943776)
 
-![Image of a Database Schema
-Diagram](media/image1.jpeg){width="6.268055555555556in"
-height="4.165972222222222in"}
 
 **Suppliers**
 
